@@ -1,0 +1,9 @@
+<settings>
+  <servers>
+    <server>
+      <id>central</id>
+      <username>PORTAL_TOKEN_USERNAME</username>
+      <password>PORTAL_TOKEN_PASSWORD</password>
+    </server>
+  </servers>
+</settings>

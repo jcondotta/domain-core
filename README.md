@@ -26,8 +26,8 @@ mvn clean verify
 <dependency>
     <groupId>io.github.jcondotta</groupId>
     <artifactId>domain-core</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0-alpha.1</version>
 </dependency>
 ```
 
-This initial copy is not yet published and the banking-system project has not migrated to these coordinates. Package names and public APIs are intentionally unchanged for the extraction review.
+The banking-system project has not migrated to these coordinates yet. Package names and public APIs are intentionally unchanged for the extraction review. See [PUBLISHING.md](PUBLISHING.md) for release preparation and publication instructions.
